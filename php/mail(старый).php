@@ -1,5 +1,5 @@
 <?
-    $to = 'znikolai@mail.ru, lidersport83@mail.ru';
+    $to = 'dh-ka@bk.ru';
     $subject = 'Заявка с сайта gyro.lidsport.ru';
     $message = '
         <html>
