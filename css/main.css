@@ -1,0 +1,23 @@
+#request-message {
+	display: none;
+}
+.send-message {
+	position: fixed !important;
+	width: 400px;
+	height: 100px;
+	margin: -100px 0 0 -50px;
+	border: 1px solid black;
+	color: black;
+	top: 50%;
+	left: calc(50% - 150px);
+	text-align: center;
+	background-color: white;
+	z-index: 999;
+	opacity: 0; visibility: hidden;
+}
+.send-message h3 {
+		margin-top: 35px;
+}
+.hide-city {
+	display: none;
+}
